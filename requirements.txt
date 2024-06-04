@@ -1,0 +1,16 @@
+azure-core<2
+azure-search-documents<12
+emoji<3
+gradio<5
+humanize<5
+ipykernel<7
+ipywidgets<8
+jupyter<2
+langchain<2
+langchain-community<2
+langchain-openai<2
+notebook<8
+openai<2
+python-dotenv<2
+requests<3
+tiktoken<2
